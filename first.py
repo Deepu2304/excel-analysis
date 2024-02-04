@@ -46,7 +46,7 @@ def main():
 
     except Exception as e:
         # logging.error("application failed and exiting ")
-        print("application failed")
+        print("application failed and exiting")
 
 
 if __name__ == "__main__":
