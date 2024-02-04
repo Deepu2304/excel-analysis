@@ -41,7 +41,7 @@ def main():
         df = read_csv_file(csv_file)
         # saving dataframe to excell
         saving_to_excel(df, excel_file)
-        # reading and printing 50 rows of excel filr
+        # reading and printing 50 rows of excel file
         read_display(excel_file)
 
     except Exception as e:
