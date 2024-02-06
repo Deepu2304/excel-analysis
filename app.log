@@ -1,0 +1,12 @@
+2024-02-04 21:20:00,256 - INFO - Reading csv file from (csv_file)
+2024-02-04 21:20:00,261 - INFO - successfully done reading csv file
+2024-02-04 21:20:00,261 - INFO - exporting dataframe to excel file (excel_file)
+2024-02-04 21:20:00,414 - INFO - successfully exported the dataframe to excel
+2024-02-04 21:20:00,414 - INFO - reading 50 rows from the excel file
+2024-02-04 21:20:00,424 - INFO - successfully completed reading 50 rows 
+2024-02-04 21:20:37,403 - INFO - Reading csv file from (csv_file)
+2024-02-04 21:20:37,408 - INFO - successfully done reading csv file
+2024-02-04 21:20:37,408 - INFO - exporting dataframe to excel file (excel_file)
+2024-02-04 21:20:37,572 - INFO - successfully exported the dataframe to excel
+2024-02-04 21:20:37,572 - INFO - reading 50 rows from the excel file
+2024-02-04 21:20:37,582 - INFO - successfully completed reading 50 rows 
