@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import logging
 
@@ -35,8 +36,8 @@ def read_display(excel_file):
 
 def main():
     try:
-        csv_file = '/Users/jaideepsai/Desktop/PYTHON/data-sci/heart.csv'
-        excel_file = 'heart_out.xlsx'
+        csv_file = sys.argv[1]
+        excel_file = sys.argv[2]
         # read csv file
         df = read_csv_file(csv_file)
         # saving dataframe to excell
